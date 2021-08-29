@@ -1,0 +1,64 @@
+}
+* {
+	text-align:center;
+	background-color:#FAEBD7;
+}
+h1 {
+	color:#8B0000;
+	font-family: 'Nosifer', cursive;
+	text-align: center;
+}
+
+h2 {
+	color:#8B0000;
+	font-family: 'Nosifer', cursive;
+	text-align: center;
+}
+h3 {
+	color:#D2691E;
+	font-family: 'Girassol', cursive;
+	text-align: center;
+}
+
+
+body{
+	background-color:#FAEBD7;
+}
+
+.brownegg{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.choices{
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+
+
+
+a:link {
+  color: #000000;
+}
+
+/* visited link */
+a:visited {
+  color: #MediumSeaGreen;
+}
+
+/* mouse over link */
+a:hover {
+  color: #800000;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+/* This section is about colors and font size in css. */
